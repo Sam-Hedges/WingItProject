@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chair_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: e5c040e0ae899394fa82d2cbcc0bc7ad,
+    type: 3}
+  m_ShaderKeywords: MAIN_LIGHT_CALCULATE_SHADOWS _MAIN_LIGHT_SHADOWS_CASCADE _SHADOWS_SOFT
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_52E2F195:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5A68126C:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_85D77D4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8EED554E:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_94033B8F:
+        m_Texture: {fileID: 2800000, guid: 56d7865d8e9eb9a4f94dad8564c88447, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B4544E6F:
+        m_Texture: {fileID: 2800000, guid: 4f46d4e358fd9f34d844f5933d036486, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B667F724:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DC139D8A:
+        m_Texture: {fileID: 2800000, guid: e72f7baef90041f4cb98ae1c37ffb550, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_6E40163F: 1
+    - Boolean_86DF3613: 0
+    - Boolean_909F7151: 0
+    - Boolean_ABC20F68: 0
+    - Boolean_CBF64119: 1
+    - Boolean_E4752FED: 1
+    - Boolean_E8AE0991: 0
+    - Vector1_16DC6F7A: 0
+    - Vector1_19FC1A7B: 0
+    - Vector1_1D4AF374: 1.29
+    - Vector1_31A8EB6: 2.5
+    - Vector1_50F2A378: 4.77
+    - Vector1_5A903150: 0
+    - Vector1_611A87C9: 1
+    - Vector1_66153E8A: 0.829
+    - Vector1_6FE66511: 1
+    - Vector1_8B61D42C: 0.777
+    - Vector1_A939F84B: 0.759
+    - Vector1_B5AE4331: 1.5
+    - Vector1_CD306BAC: 0
+    - Vector1_DAA42A8: 0
+    - Vector1_E31311DF: 0.489
+    - Vector1_E69985F9: 1
+    - Vector1_F4EC345A: 2
+    - Vector1_FE978EB1: 0.002
+    m_Colors:
+    - Color_5EA16A47: {r: 1, g: 1, b: 1, a: 1}
+    - Color_5F9A54C8: {r: 1, g: 1, b: 1, a: 0}
+    - Color_E657C5AC: {r: 1, g: 1, b: 1, a: 0}
+    - Color_F35B164F: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_3845AF61: {r: 10, g: 10, b: 0, a: 0}
+    - Vector2_7FBD56D2: {r: 10, g: 10, b: 0, a: 0}
+    - Vector2_C8BA1AF9: {r: 0, g: 0, b: 0, a: 0}
